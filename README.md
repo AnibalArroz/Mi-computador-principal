@@ -1,2 +1,2 @@
 # Mi-computador-principal
-Marca/modelo: 
+Marca/modelo: l
